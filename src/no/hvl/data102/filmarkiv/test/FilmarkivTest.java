@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import no.hvl.data102.filmarkiv.impl.Film;
 import no.hvl.data102.filmarkiv.impl.Filmarkiv;
 import no.hvl.data102.filmarkiv.impl.Sjanger;
-
+//test class for Filmarkiv
 public class FilmarkivTest {
 
     private Filmarkiv filmarkiv;
